@@ -3,7 +3,7 @@
 - Solution Engineer at B2B AI Agent Startup
 - Ex-Intern at Budweiser & TikTok & BCG
 - MS in Business Analytics @ UC Davis
-- Contact me via yingxuanbian1122@gmail.com
+- Contact me via **yingxuanbian1122@gmail.com**
 - Click **[Here](https://drive.google.com/file/d/1MDV0kC0YRFHukwke3yoWEo6WKY7FgEfk/view?usp=drive_link)** for Latest Resume
 
 ---
@@ -35,6 +35,12 @@
 
 ## 📊 Key Projects  
 
+- **Finance GraphRAG Engine (Apr 2025–May 2025)**
+  Engineered a Python-based RAG pipeline that converts SEC 10-K filings into a Neo4j knowledge graph and uses LangChain + OpenAI to power financial Q&A, with a Streamlit interface for rapid prototyping.
+
+- **E-commerce Customer Churn Prediction & Segmentation ML Project (Jan 2025–Mar 2025)**
+  Built an XGBoost model with 98% recall using SMOTE and 20+ engineered features, and segmented users via K-Means and RFM to drive targeted retention strategies projected to reduce churn by 35%.
+
 - **Airbnb New User Analysis Data Management Project (Oct 2024–Dec 2024)**  
   Designed and implemented a SQL-based data pipeline to integrate and clean 1M+ records across five datasets, and conducted EDA to improve booking predictions by 20%.
 
@@ -42,11 +48,10 @@
   Performed sentiment analysis on comments from 25K users across 3K games and developed a Collaborative Filtering Model using Factorization Machine and DNN to address the cold start problem.
 
 - **Hotel Prediction Business Analytics Project (Mar 2023–May 2023)**  
-  Selected variables using Step AIC and PCA to predict cancellations with logistic regression and time series methods, while leading discussions to design incentive mechanisms and an overbooking solution.
+  Selected variables using Step AIC and PCA to predict cancellations with logistic regression and time series methods, and design incentive mechanisms and an overbooking solution.
 
 - **Loan Default Prediction Project (Nov 2022–Dec 2022)**  
   Analyzed Lending Club data using various ML techniques to predict loan defaults, ultimately identifying Random Forest as the most effective model with an AUC of 71%.
-
 
 ---
 
@@ -55,7 +60,7 @@
   *Aug 2024 - July 2025*  
 - **The Chinese University of Hong Kong**, BBA in Applied Economics  
   *Sep 2020 - May 2024*  
-- **University of Notre Dame**, Exchange Student  
+- **University of Notre Dame**, Exchange Semester  
   *Jan 2023 - May 2023*  
 
 ---
@@ -69,8 +74,9 @@
 ---
 
 ## 💼 Skills  
-- **Technologies:** MS Excel, SQL, R, Stata, Python, Power BI, Tableau, Adobe Audition, Databricks, Google Colab  
-- **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing, Data Pipeling Management, Big Data Analytics
+- **Programming & Tools:** Python, SQL, R, AWS, PySpark, Kafka, Shell, Git, Stata, dbt, Databricks, MongoDB, Confluence, Jira
+- **Analytics:** Power BI, Tableau, ETL, MS Excel, A/B Testing, Statistical Analysis, Data Visualization, Exploratory Data Analysis, Data Mining & Manipulation, Machine Learning, Deep Learning, LLM application (RAG, MCP, API), Prompt Engineering
+
 
 
 
