@@ -1,12 +1,16 @@
 # Hi, This is Selina Bian! 👋  
 - Enthusiastic about leveraging data and LLM for actionable business insights and solutions
+- Solution Engineer at B2B AI Agent Startup
 - Ex-Intern at Budweiser & TikTok & BCG
 - MS in Business Analytics @ UC Davis
-- Contact me via yingxuanbian1122@gmail.com 
+- Contact me via yingxuanbian1122@gmail.com
+- Click **[Here](https://drive.google.com/file/d/1MDV0kC0YRFHukwke3yoWEo6WKY7FgEfk/view?usp=drive_link)** for Latest Resume
 
 ---
 
 ## 🧑‍💼 Professional Experience  
+- **LiveX AI, AI Solution Engineer Intern**
+  Architected multimodal and LLM-powered customer-support agents, built orchestration logic and API integrations, and led end-to-end deployment across chat, voice, and backend systems.
 
 - **OSCR AI, Market Analyst Intern** (San Francisco, CA, Nov 2024–Feb 2025)  
   Conduct market research and competitive analysis to refine the product-market fit for a content marketing SaaS product, and collaborate on growth strategies that have generated 80+ leads.
@@ -57,7 +61,7 @@
 ---
 
 ## 🏉 Leadership & Organizations  
-- **Podcaster** (~5.6K Subscription, 50K+ Listens)  
+- **Podcaster** (~5.8K Subscription, 50K+ Listens)  
 - **Vice President of Cooking Pioneer Club**  
 - **Student Assistant for Center of Innovation and Entrepreneurship**  
 - **Member of Peer Psychological Counseling Team**  
@@ -67,6 +71,7 @@
 ## 💼 Skills  
 - **Technologies:** MS Excel, SQL, R, Stata, Python, Power BI, Tableau, Adobe Audition, Databricks, Google Colab  
 - **Specialties:** Data Visualization, Supervised and Unsupervised Machine Learning, LLM Application (RAG), A/B Testing, Data Pipeling Management, Big Data Analytics
+
 
 
 
