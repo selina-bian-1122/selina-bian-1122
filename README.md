@@ -4,12 +4,12 @@
 - Ex-Intern at Budweiser & TikTok & BCG
 - MS in Business Analytics @ UC Davis
 - Contact me via **yingxuanbian1122@gmail.com**
-- Click **[Here](https://drive.google.com/file/d/1MDV0kC0YRFHukwke3yoWEo6WKY7FgEfk/view?usp=drive_link)** for Latest Resume
 
 ---
 
 ## 🧑‍💼 Professional Experience  
 - **LiveX AI, AI Solution Engineer** (Palo Alto, CA, Aug 2025-Now)
+
   Architected multimodal and LLM-powered customer-support agents, built orchestration logic and API integrations, and led end-to-end deployment across chat, voice, and backend systems.
 
 - **Alexander Tutoring & Andromeda, AI Data Scientist** (San Francisco, CA, Aug 2024–Jun 2025)  
@@ -76,6 +76,7 @@
 ## 💼 Skills  
 - **Programming & Tools:** Python, SQL, R, AWS, GCP, PySpark, Kafka, Shell, Git, Stata, dbt, Databricks, MongoDB, Confluence, Jira
 - **Analytics:** Power BI, Tableau, ETL, MS Excel, A/B Testing, Statistical Analysis, Data Visualization, Exploratory Data Analysis, Data Mining & Manipulation, Machine Learning, Deep Learning, LLM application (RAG, MCP, API), Prompt Engineering
+
 
 
 
