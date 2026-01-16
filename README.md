@@ -74,8 +74,9 @@
 ---
 
 ## 💼 Skills  
-- **Programming & Tools:** Python, SQL, R, AWS, PySpark, Kafka, Shell, Git, Stata, dbt, Databricks, MongoDB, Confluence, Jira
+- **Programming & Tools:** Python, SQL, R, AWS, GCP, PySpark, Kafka, Shell, Git, Stata, dbt, Databricks, MongoDB, Confluence, Jira
 - **Analytics:** Power BI, Tableau, ETL, MS Excel, A/B Testing, Statistical Analysis, Data Visualization, Exploratory Data Analysis, Data Mining & Manipulation, Machine Learning, Deep Learning, LLM application (RAG, MCP, API), Prompt Engineering
+
 
 
 
