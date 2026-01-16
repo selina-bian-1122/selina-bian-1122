@@ -9,14 +9,14 @@
 ---
 
 ## 🧑‍💼 Professional Experience  
-- **LiveX AI, AI Solution Engineer Intern**
+- **LiveX AI, AI Solution Engineer** (Palo Alto, CA, Aug 2025-Now)
   Architected multimodal and LLM-powered customer-support agents, built orchestration logic and API integrations, and led end-to-end deployment across chat, voice, and backend systems.
+
+- **Alexander Tutoring & Andromeda, AI Data Scientist** (San Francisco, CA, Aug 2024–Jun 2025)  
+  Developed a churn prediction model and a star tutoring evaluation model using Python, PCA, and random forest to enhance accuracy, while also applying RAG and LLMs to extract actionable insights from tutorial session data.
 
 - **OSCR AI, Market Analyst Intern** (San Francisco, CA, Nov 2024–Feb 2025)  
   Conduct market research and competitive analysis to refine the product-market fit for a content marketing SaaS product, and collaborate on growth strategies that have generated 80+ leads.
-
-- **Alexander Tutoring & Andromeda, Data Scientist** (San Francisco, CA, Aug 2024–Jun 2025)  
-  Developed a churn prediction model and a star tutoring evaluation model using Python, PCA, and random forest to enhance accuracy, while also applying RAG and LLMs to extract actionable insights from tutorial session data.
 
 - **Budweiser Asia Pacific, Trade Marketing Summer Intern** (Shanghai, China, Jul 2023–Sep 2023)  
   Led the creation of an information-sharing platform and built 20 Power BI dashboards that reduced analysis time by nearly 50%, and optimized a coupon distribution system via advanced Excel analysis to save 34% in costs.
@@ -76,6 +76,7 @@
 ## 💼 Skills  
 - **Programming & Tools:** Python, SQL, R, AWS, PySpark, Kafka, Shell, Git, Stata, dbt, Databricks, MongoDB, Confluence, Jira
 - **Analytics:** Power BI, Tableau, ETL, MS Excel, A/B Testing, Statistical Analysis, Data Visualization, Exploratory Data Analysis, Data Mining & Manipulation, Machine Learning, Deep Learning, LLM application (RAG, MCP, API), Prompt Engineering
+
 
 
 
